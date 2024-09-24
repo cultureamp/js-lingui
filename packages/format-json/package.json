@@ -39,7 +39,7 @@
     "dist/"
   ],
   "dependencies": {
-    "@lingui/conf": "4.4.0",
+    "@lingui/conf": "2.0.0",
     "ramda": "^0.28.0"
   },
   "devDependencies": {
