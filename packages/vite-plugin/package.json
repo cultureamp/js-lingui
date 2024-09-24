@@ -39,8 +39,8 @@
     "dist/"
   ],
   "dependencies": {
-    "@lingui/cli": "4.4.0",
-    "@lingui/conf": "4.4.0"
+    "@lingui/cli": "2.0.0",
+    "@lingui/conf": "2.0.0"
   },
   "peerDependencies": {
     "vite": "3 - 4"
