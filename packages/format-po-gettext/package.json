@@ -42,8 +42,8 @@
   ],
   "dependencies": {
     "@lingui/conf": "4.4.0",
-    "@lingui/format-po": "4.4.0",
-    "@lingui/message-utils": "4.4.0",
+    "@lingui/format-po": "4.0.0",
+    "@lingui/message-utils": "4.0.0",
     "@messageformat/parser": "^5.0.0",
     "node-gettext": "^3.0.0",
     "plurals-cldr": "^2.0.1",
